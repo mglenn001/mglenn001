@@ -9,5 +9,8 @@
   "devDependencies": {
     "@storybook/cli": "^8.6.14",
     "chromatic": "^11.28.2"
+  },
+  "dependencies": {
+    "create-storybook": "^8.6.14"
   }
 }
