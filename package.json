@@ -7,6 +7,7 @@
     "build-storybook": "storybook build"
   },
   "devDependencies": {
+    "@storybook/cli": "^8.6.14",
     "chromatic": "^11.28.2"
   }
 }
